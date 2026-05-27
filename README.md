@@ -35,6 +35,7 @@ I specialize in porting and customizing **AOSP** and **HyperOS** ROMs specifical
 ### 🌀 HyperOS
 * HyperOS 2 & 3 (CN / Global / EEA)
 * HyperOS 2 MegaXOmen
+* ProfessorOS • CraftyOS • OmenOS
 * HyperArt 2.0.5.0
 * HyperOS 3.0.3.0 (Beta)
 
@@ -42,7 +43,6 @@ I specialize in porting and customizing **AOSP** and **HyperOS** ROMs specifical
 * MikuUI TDA • SkylineUI 13.0 • WitAqua 2.2
 * RisingOS Revived • EvolutionX • HorizonDroid
 * ColorOS 15 • ProjectMatrixx • AlphaDroid
-* ProfessorOS • CraftyOS • OmenOS
 
 ---
 

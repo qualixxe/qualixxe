@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Ports%20Released-20%2B-green?style=flat-square" alt="Ports">
 </p>
 
-## 🎮 Interests & Hobbies <img src="https://cdn2.steamgriddb.com/icon/e55bc0255c752d1cb05da10c0f1f5026/32/48x48.png" width="28" align="center" alt="Dying Light Icon">
-
+## 🎮 Interests & Hobbies
 * 🛠️ **ROM Porting:** Constantly exploring, tweaking, and bringing new software experiences to the *courbet* community.
 * 🕹️ **Gaming:** Huge fan of immersive gaming.
 * <p align="left">

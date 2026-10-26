@@ -40,10 +40,3 @@ I specialize in porting and customizing **AOSP** and **HyperOS** ROMs specifical
     <img src="https://img.shields.io/badge/4PDA_Profile-00E5FF?style=for-the-badge&logo=android&logoColor=black" alt="4PDA">
   </a>
 </p>
-
----
-
-## ⚠️ Important
-
-> [!IMPORTANT]
-> Custom ROMs require an **unlocked bootloader**. Always **backup your data** before flashing. Use these builds at your own risk.
